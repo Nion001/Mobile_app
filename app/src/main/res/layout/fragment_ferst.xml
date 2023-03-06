@@ -6,47 +6,48 @@
     android:layout_height="match_parent"
     tools:context=".screens.FerstFragment">
 
-<!--    <TextView-->
+        <TextView
 
-<!--        android:id="@+id/textView6"-->
-<!--        android:layout_width="341dp"-->
+            android:id="@+id/textView6"
+            android:layout_width="341dp"
 
-<!--        android:layout_height="72dp"-->
-<!--        android:fontFamily="@font/new_resource_file"-->
-<!--        android:gravity="center"-->
-<!--        android:text="Learn anytime and anywhere"-->
-<!--        android:textColor="#3C3A36"-->
-<!--        android:textSize="25sp"-->
-<!--        app:layout_constraintBottom_toBottomOf="parent"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent"-->
-<!--        app:layout_constraintVertical_bias="0.691" />-->
-<!--    <TextView-->
-<!--        android:id="@+id/textView5"-->
-<!--        android:layout_width="341dp"-->
-<!--        android:layout_height="64dp"-->
-<!--        android:gravity="center"-->
-<!--        android:text="Quarantine is the perfect time to spend your-->
-<!-- day learning something new, from anywhere!"-->
-<!--        app:layout_constraintBottom_toBottomOf="parent"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent"-->
-<!--        app:layout_constraintVertical_bias="0.831" />-->
+            android:layout_height="72dp"
+            android:fontFamily="@font/new_resource_file"
+            android:gravity="center"
+            android:text="Learn anytime and anywhere"
+            android:textColor="#3C3A36"
+            android:textSize="25sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.691" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="341dp"
+            android:layout_height="64dp"
+            android:gravity="center"
+            android:text="Quarantine is the perfect time to spend your
+     day learning something new, from anywhere!"
+            android:fontFamily="@font/new_resource_file"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.831" />
 
-<!--    <ImageView-->
+        <ImageView
 
 
-<!--        android:id="@+id/imageView3"-->
-<!--        android:layout_width="440dp"-->
-<!--        android:layout_height="288dp"-->
-<!--        android:layout_marginTop="140dp"-->
-<!--        android:src="@drawable/fragment2"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintHorizontal_bias="0.517"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+            android:layout_width="440dp"
+            android:layout_height="288dp"
+            android:layout_marginTop="140dp"
+            android:src="@drawable/fragment2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.517"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

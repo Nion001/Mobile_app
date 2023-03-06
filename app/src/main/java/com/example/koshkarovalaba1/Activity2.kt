@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.fragment.app.FragmentActivity
 import com.example.koshkarovalaba1.adapter.FerstAdapter
 import com.example.koshkarovalaba1.databinding.Activity2Binding
-import com.example.koshkarovalaba1.databinding.ActivityMainBinding
+
 
 class Activity2 : FragmentActivity() {
 
