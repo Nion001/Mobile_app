@@ -13,10 +13,12 @@ class Activity1 : AppCompatActivity() {
         setContentView(R.layout.activity1)
 
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent= Intent(this@Activity1, Activity2::class.java)
+
+            val intent= Intent(this, Activity2::class.java)
             startActivity(intent)
             finish()
-        },3000)
+        },5000)
+
 
     }
 }
