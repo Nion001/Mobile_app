@@ -28,8 +28,7 @@
         android:layout_marginTop="528dp"
         android:fontFamily="@font/new_resource_file"
         android:gravity="center"
-        android:text="Quarantine is the perfect time to spend your
- day learning something new, from anywhere!"
+        android:text="Quarantine is the perfect time to spend your day learning something new, from anywhere!"
         android:textColor="#78746D"
         android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="parent"
