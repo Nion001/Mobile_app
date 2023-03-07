@@ -21,21 +21,13 @@ class Activity2 : FragmentActivity() {
         binding = Activity2Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        Handler(Looper.getMainLooper()).postDelayed({
-            val intent=Intent(this, Activity1::class.java)
-            startActivity(intent)
-            finish()
-        },3000)
+
 
         binding.button.setOnClickListener{
             val intent= Intent (this, Activity3::class.java)
             startActivity(intent)
         }
         initial()
-
-
-
-
 
 
     }
