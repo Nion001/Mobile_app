@@ -40,4 +40,20 @@
         android:layout_width="wrap_content"
         android:layout_height="334dp"
         android:src="@drawable/cool_kids_high_tech" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="636dp"
+        android:layout_marginEnd="17dp"
+        android:backgroundTint="@color/ic_launcher_background"
+        android:fontFamily="@font/new_resource_file"
+        android:gravity="center"
+        android:text="Let's start"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </FrameLayout>

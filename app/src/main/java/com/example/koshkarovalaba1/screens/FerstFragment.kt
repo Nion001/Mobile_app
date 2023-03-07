@@ -1,23 +1,33 @@
 package com.example.koshkarovalaba1.screens
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.koshkarovalaba1.R
+import com.example.koshkarovalaba1.databinding.Activity2Binding
+import com.example.koshkarovalaba1.databinding.FragmentFerstBinding
 
 
 class FerstFragment : Fragment() {
 
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
+
+
+
+
     ): View? {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_ferst, container, false)
     }
+
+
+
+
 
 
 }
