@@ -7,7 +7,10 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import com.example.koshkarovalaba1.databinding.Activity2Binding
 import com.example.koshkarovalaba1.databinding.FragmentDashboardBinding
+
+
 
 class DashboardFragment : Fragment() {
 

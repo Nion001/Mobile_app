@@ -2,13 +2,16 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
+        android:id="@+id/navigation1"
         android:title="Dictionary"
         android:icon="@drawable/courses"
         />
     <item
+        android:id="@+id/navigation2"
         android:title="Training"
         android:icon="@drawable/vector__3_"/>
     <item
+        android:id="@+id/navigation3"
         android:title="Video"
         android:icon="@drawable/vector__4_"/>
 </menu>

@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/navigation2"
     tools:context=".Fragment_Navigation_2_activity4">
 
     <!-- TODO: Update blank fragment layout -->

@@ -11,11 +11,7 @@ import android.view.ViewGroup
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [Fragment_Navigation_2_activity4.newInstance] factory method to
- * create an instance of this fragment.
- */
+
 class Fragment_Navigation_2_activity4 : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null

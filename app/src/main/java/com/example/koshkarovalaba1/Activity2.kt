@@ -4,13 +4,14 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentActivity
 import com.example.koshkarovalaba1.adapter.FerstAdapter
 import com.example.koshkarovalaba1.databinding.Activity2Binding
 import com.example.koshkarovalaba1.screens.SecondFragment
 
 
-class Activity2 : FragmentActivity() {
+class Activity2 : AppCompatActivity() {
 
 
 
